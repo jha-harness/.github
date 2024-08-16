@@ -1,0 +1,13 @@
+{
+    "name": "CI Preferred Path",
+    "description": "Example CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "main.go",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
